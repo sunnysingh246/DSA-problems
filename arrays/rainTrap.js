@@ -24,3 +24,5 @@ var trap = function (height) {
 
     return ans
 }
+
+

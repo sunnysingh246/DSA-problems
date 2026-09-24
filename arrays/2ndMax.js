@@ -25,7 +25,7 @@ for (let i = 2; i < arr2.length; i++) {
     if (arr2[i] > max) {
         secMax = max
         max = arr2[i]
-    } else if (arr2[i] > secMax && max !== arr[i]) {
+    } else if (arr2[i] > secMax && max !== arr2[i]) {
         secMax = arr2[i]
     }
 }
