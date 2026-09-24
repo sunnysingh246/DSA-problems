@@ -52,5 +52,6 @@ function secondLargestOptimized(arr) {
 console.log(secondLargestOptimized([3, 1, 4, 1, 5, 9, 2, 6])); // 6
 console.log(secondLargestOptimized[5, 5, 5]);                // null (no distinct second max)
 console.log(secondLargestOptimized([10]));
+
 //time complexity  ->O(n)
 //space complexity ->O(1)
