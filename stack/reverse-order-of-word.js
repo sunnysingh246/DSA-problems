@@ -1,4 +1,4 @@
-//input :"Hello world"     ----->>> output:"world Hello"
+//input :"Hello world"     ----->>>    output:"world Hello"
 
 function reverseStack(s) {
     const splitS = s.split(" ")
